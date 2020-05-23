@@ -1,0 +1,29 @@
+1.
+Set the display property of the following elements:
+
+Set the display value of elements with a class of container to flex.
+Set the display value of elements with a class of square to flex.
+Set the display value of elements with a class of week to inline-flex.
+Set the display value of elements with a class of reminders to inline-flex.
+2.
+Set the flex-grow property of the following elements:
+
+Set the flex-grow value of elements with a class of week to 3.
+Set the flex-grow value of elements with a class of reminders to 2.
+3.
+Set the week class elements to have a column flex-direction.
+
+4.
+Use the flex-wrap property to wrap elements with class row.
+
+5.
+Set the justify-content property of the following elements:
+
+Set the justify-content property of elements with a class of row to space-around.
+Set the justify-content property of elements with a class of square to center.
+6.
+Set the align-items property of the following elements:
+
+Set the align-items property of elements with a class of row to center.
+Set the align-items property of elements with a class of square to center.
+You did it! Great work.
